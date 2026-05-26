@@ -65,13 +65,12 @@ Career-Suite-AI/
 ├── requirements.txt
 ├── README.md
 │
-├── images/
-│   ├── homepage.png
-│   ├── form.png
-│   ├── cv_preview.png
-│   ├── motivation_letter.png
-│   ├── pdf_downloadcv.png
-│   └── pdf_downloadlettre.png
+├── homepage.png
+├── form.png
+├── cv_preview.png
+├── motivation_letter.png
+├── pdf_downloadcv.png
+├── pdf_downloadlettre.png
 ```
 
 ---
@@ -120,37 +119,37 @@ streamlit run app.py
 
 ## 🏠 Homepage
 
-![Homepage](images/homepage.png)
+![Homepage](homepage.png)
 
 ---
 
 ## 📋 User Form Interface
 
-![Form](images/form.png)
+![Form](form.png)
 
 ---
 
 ## ✨ Generated CV Preview
 
-![CV Preview](images/cv_preview.png)
+![CV Preview](cv_preview.png)
 
 ---
 
 ## ✉️ Motivation Letter Preview
 
-![Motivation Letter](images/motivation_letter.png)
+![Motivation Letter](motivation_letter.png)
 
 ---
 
 ## 📄 CV PDF Download
 
-![PDF CV](images/pdf_downloadcv.png)
+![PDF CV](pdf_downloadcv.png)
 
 ---
 
 ## 📄 Motivation Letter PDF Download
 
-![PDF Letter](images/pdf_downloadlettre.png)
+![PDF Letter](pdf_downloadlettre.png)
 
 ---
 
