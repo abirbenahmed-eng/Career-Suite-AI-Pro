@@ -81,7 +81,7 @@ Career-Suite-AI/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/career-suite-ai.git
+git clone https://github.com/abirbenahmed-eng/career-suite-ai.git
 ```
 
 ---
@@ -184,17 +184,17 @@ Supported languages:
 
 ---
 
-# 👨‍💻 Students
+# 👨‍💻 Student
 
 - Abir Ben Ahmed
-- [Add teammate name]
+
 
 ---
 
 # 🔗 GitHub Repository
 
 ```text
-https://github.com/your-username/career-suite-ai
+https://github.com/abirbenahmed-eng/career-suite-ai
 ```
 
 ---
