@@ -71,6 +71,7 @@ Career-Suite-AI/
 ├── motivation_letter.png
 ├── pdf_downloadcv.png
 ├── pdf_downloadlettre.png
+├── demo.mp4
 ```
 
 ---
@@ -161,7 +162,8 @@ The project includes a short demonstration video showing:
 - CV preview
 - Motivation letter generation
 - PDF export
-https://github.com/abirbenahmed-eng/career-suite-ai/raw/main/demo.mp4
+- https://github.com/abirbenahmed-eng/career-suite-ai/raw/main/demo.mp4
+
 ---
 
 # 🎯 ATS Optimization
