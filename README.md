@@ -161,7 +161,7 @@ The project includes a short demonstration video showing:
 - CV preview
 - Motivation letter generation
 - PDF export
-
+https://github.com/abirbenahmed-eng/career-suite-ai/raw/main/demo.mp4
 ---
 
 # 🎯 ATS Optimization
